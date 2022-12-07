@@ -6,3 +6,6 @@
 2. udf-databricks-cluster-multiprocessing:
     * https://github.com/daviabdallah/databricks-utils/blob/main/udf-databricks-cluster-multiprocessing/
     * https://github.com/daviabdallah/databricks-utils/blob/main/udf-databricks-cluster-multiprocessing/README.md
+3. databricks-dependency-management:
+    * https://github.com/daviabdallah/databricks-utils/blob/main/databricks-dependency-management/
+    * https://github.com/daviabdallah/databricks-utils/blob/main/databricks-dependency-management/README.md
