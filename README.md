@@ -1,5 +1,4 @@
-# databricks-search-column-tool
-search column tool (all databases or selected databases) for databricks
+# databricks-utils - collections of databricks python utils on each subfolder
 
 1. Create a new Databricks Notebook for your databricks-search-column-tool
 2. Add to cells
