@@ -9,3 +9,6 @@
 3. databricks-dependency-management:
     * https://github.com/daviabdallah/databricks-utils/blob/main/databricks-dependency-management/
     * https://github.com/daviabdallah/databricks-utils/blob/main/databricks-dependency-management/README.md
+4. update-csv-using-delta
+    * https://github.com/daviabdallah/databricks-utils/blob/main/update-csv-using-delta/
+    * https://github.com/daviabdallah/databricks-utils/blob/main/update-csv-using-delta/README.md
