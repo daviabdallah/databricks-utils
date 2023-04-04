@@ -12,3 +12,6 @@
 4. update-csv-using-delta
     * https://github.com/daviabdallah/databricks-utils/blob/main/update-csv-using-delta/
     * https://github.com/daviabdallah/databricks-utils/blob/main/update-csv-using-delta/README.md
+5. notebooks_parallel_run
+    * https://github.com/daviabdallah/databricks-utils/tree/main/notebooks_parallel_run
+    * https://github.com/daviabdallah/databricks-utils/tree/main/notebooks_parallel_run/README.md
