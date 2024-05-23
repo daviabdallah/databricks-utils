@@ -15,3 +15,6 @@
 5. notebooks_parallel_run
     * https://github.com/daviabdallah/databricks-utils/tree/main/notebooks_parallel_run
     * https://github.com/daviabdallah/databricks-utils/tree/main/notebooks_parallel_run/README.md
+6. start-notebook-in-specific-cluster
+   * https://github.com/daviabdallah/databricks-utils/blob/main/start-notebook-in-specific-cluster
+   * https://github.com/daviabdallah/databricks-utils/blob/main/start-notebook-in-specific-cluster/README.md
