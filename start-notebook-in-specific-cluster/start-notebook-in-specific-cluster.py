@@ -1,6 +1,6 @@
 cluster_config = '''
 {
-  "existing_cluster_id": "cluster id" # pass json for new cluster or get cluster id by running spark.conf.get("spark.databricks.clusterUsageTags.clusterId") at the desired cluster 
+  "existing_cluster_id": "cluster id" # Pass json for creating new cluster or get cluster id by running spark.conf.get("spark.databricks.clusterUsageTags.clusterId") at the desired cluster 
 }
 '''
 
